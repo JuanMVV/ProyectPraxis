@@ -7,3 +7,5 @@ secrets.json
 appsettings.Development.json
 report.csv
 report.json
+.vs/
+.idea/
